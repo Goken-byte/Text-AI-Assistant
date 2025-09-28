@@ -28,8 +28,10 @@ After loading Text-AI-Assistant extension, following the below steps:
         d) Translate to..: using this API, the app will translate the highlighted text to desired language selected by the user.
 
         * RUNNING THE APP FOR THE FIRST TIME, IT WILL ASK FOR API KEY*
-        here is the API-KEY in the bracket: use it without the bracket please.
-        (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)
+         Please generate your own api key from https://openrouter.ai/settings/keys
+         The api key look like this: sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+         e) From the Text AI Assistant, click on the ⚙ setting icon and make sure select "Claude 3 Haiku (Quality)" from the AI Model
+         f) And past your API-KEY on API KEY FIELD then close the app and enjoy your time.
 
 After the app processed the text base on what feature you have selected, the app will allow you to copy the result then use it to where you want.
 User can also type or copy text from any source then past it into the input text field on the app and select a adesire feature then click on process for app to process the result.
